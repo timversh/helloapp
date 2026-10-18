@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         public static void GreetWhite()
         {
-            Console.WriteLine("hello everyone");
+            Console.WriteLine("hello everyones");
         }
         
         public static void GreetBlack()
