@@ -8,6 +8,11 @@ namespace ConsoleApp1
         {
             Console.WriteLine("hello everyone");
         }
+        
+        public static void GreetBlack()
+        {
+            Console.WriteLine("hello black");
+        }
 
         static void Main(string[] args)
         {
